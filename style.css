@@ -25,3 +25,7 @@ p{
 dl{
     font-weight: 550;
 }
+.lnks{
+    list-style: none;
+    text-decoration: none;
+}
